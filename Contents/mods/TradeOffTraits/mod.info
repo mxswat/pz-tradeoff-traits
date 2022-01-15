@@ -1,5 +1,5 @@
-name=Very Serious Traits
+name=Trade-Off Traits
 poster=poster.png
 id=VerySeriousTraits
-description=BananaShake
+description=Read the workshop description
 require=ProfessionFrameworkB41Patch
