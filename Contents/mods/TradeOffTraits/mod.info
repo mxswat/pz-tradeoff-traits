@@ -2,4 +2,4 @@ name=Trade-Off Traits
 poster=poster.png
 id=VerySeriousTraits
 description=Read the workshop description
-require=ProfessionFrameworkB41Patch
+require=ProfessionFramework
