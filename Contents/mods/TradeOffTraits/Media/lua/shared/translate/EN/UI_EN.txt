@@ -1,0 +1,6 @@
+UI_EN = {
+    UI_trait_BritishFoodFan = "British Food fan",
+    UI_trait_BritishFoodFan_desc = "On consumption of food -80% on all food happines/sadness effects",
+    UI_trait_ItalianFoodEnjoyer = "Italian Food Enjoyer",
+    UI_trait_ItalianFoodEnjoyer_desc = "On consumption of food +100% Increase happiness on food with positive happiness<br>And +50% Increase sadness on food with negative happiness",
+}
