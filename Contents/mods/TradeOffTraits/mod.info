@@ -1,5 +1,5 @@
 name=Trade-Off Traits
 poster=poster.png
-id=VerySeriousTraits
+id=TradeOffTraits
 description=Read the workshop description
 require=ProfessionFramework
